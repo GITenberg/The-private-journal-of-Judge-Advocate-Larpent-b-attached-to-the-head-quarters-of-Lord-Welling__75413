@@ -1,0 +1,48 @@
+_repo: The-private-journal-of-Judge-Advocate-Larpent-b-attached-to-the-head-quarters-of-Lord-Welling__75413
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larpent, F. Seymour (Francis Seymour)
+    alias: Larpent, Francis Seymour
+    birthdate: 1776
+    deathdate: 1845
+    gutenberg_agent_id: '57987'
+    url: http://www.gutenberg.org/2009/agents/57987
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Seymour_Larpent
+  editor:
+    agent_name: Larpent, George Gerard de Hochepied
+    aliases:
+    - De Hochepied Larpent, George Gerard
+    - Hochepied Larpent, George Gerard de
+    - Sarpent, George
+    birthdate: 1786
+    deathdate: 1855
+    gutenberg_agent_id: '57988'
+    url: http://www.gutenberg.org/2009/agents/57988
+    wikipedia: https://en.wikipedia.org/wiki/George_Larpent
+description: ''
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75413'
+language: en
+pgterms:marc904: https://archive.org/details/privatejournalo00larp
+pgterms:marc905: 20240117021351larpent
+pgterms:marc906: '1854'
+pgterms:marc907: GB
+production_note: Bob Taylor, MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bRichard Bentley, $c1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peninsular War, 1807-1814 -- Personal narratives, British'
+- !lcsh 'Wellington, Arthur Wellesley, Duke of, 1769-1852'
+- !lcsh 'Larpent, F. Seymour (Francis Seymour), 1776-1845'
+- !lcc 'DC'
+- GITenberg
+title: 'The private journal of Judge-Advocate Larpent : $b attached to the head-quarters
+  of Lord Wellington during the Peninsular War, from 1812 to its close'
+url: http://www.gutenberg.org/ebooks/75413
